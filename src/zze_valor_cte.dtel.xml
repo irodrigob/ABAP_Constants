@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZZE_VALOR_CTE</ROLLNAME>
+    <DDLANGUAGE>S</DDLANGUAGE>
+    <DOMNAME>ZZD_VALOR_CTE</DOMNAME>
+    <HEADLEN>40</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>15</SCRLEN2>
+    <SCRLEN3>21</SCRLEN3>
+    <DDTEXT>Valor de la constante</DDTEXT>
+    <REPTEXT>Valor de la constante</REPTEXT>
+    <SCRTEXT_S>Val. const</SCRTEXT_S>
+    <SCRTEXT_M>Valor constante</SCRTEXT_M>
+    <SCRTEXT_L>Valor de la constante</SCRTEXT_L>
+    <DTELMASTER>S</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+    <LANGU>F</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Constant Value</DDTEXT>
+     <REPTEXT>Constant Value</REPTEXT>
+     <SCRTEXT_S>Value</SCRTEXT_S>
+     <SCRTEXT_M>Constant Value</SCRTEXT_M>
+     <SCRTEXT_L>Constant Value</SCRTEXT_L>
+    </item>
+    <item>
+     <DDLANGUAGE>F</DDLANGUAGE>
+     <DDTEXT>Valeur constante</DDTEXT>
+     <REPTEXT>Valeur constante</REPTEXT>
+     <SCRTEXT_S>Val. const</SCRTEXT_S>
+     <SCRTEXT_M>Valeur constante</SCRTEXT_M>
+     <SCRTEXT_L>Valeur constante</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
